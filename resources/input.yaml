@@ -1,0 +1,48 @@
+housekeeping:
+    turndown:
+        - Make my bed
+        - I need my bed made
+        - I would like turndown
+    towels:
+        - I need more towels
+        - Please bring me towels
+        - I need more towels for the pool
+        - I need 3 more towels
+    pillows:
+        - Bring me 2 more pillows
+        - I need 2 hypo-allergenic pillows
+        - Building a pillow fort. I need the south wall built.
+    clean_room:
+        - Clean my room
+        - Make up my room
+maintentance:
+    maintentance:
+        - The sink does not drain
+        - The showerhead drips
+        - Toilet is clogged
+front_desk:
+    callback:
+        - Call me back
+        - Frontdesk callback Please
+    wakeup:
+        - I need a wake up call for 6AM
+        - Wake me up and 9AM
+        - Wake up call for 7:32PM
+concierge:
+    transportation:
+        - I need an airport shuttle
+        - Call me a taxi in 15 minutes
+        - I want a taxi
+    laundry:
+        - I need laundry service
+        - I need dry cleaning
+    luggage:
+        - Come get my luggage
+        - Please pick up my bags
+        - Bring my bags down
+    valet:
+        - Bring me my clean_room
+        - Bring my car around
+        - Fetch my car
+        - Get my car for me
+
